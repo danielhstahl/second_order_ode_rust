@@ -7,10 +7,10 @@
 [cov-badge]: https://codecov.io/gh/phillyfan1138/second_order_ode_rust/branch/master/graph/badge.svg
 [cov-link]:  https://codecov.io/gh/phillyfan1138/second_order_ode
 
-
 ## ODE Solver for second order differential equations
 
 This repository can solve second order ODEs: h(x)f''(x)+g(x)f'(x)+c(x)f(x)=0.  The user must specify 
+
 * the functions h(x), g(x), and c(x)
 * two boundary conditions (at f(xmin) and f(xmax)).
 * the domain of x (xmin and xmax)
