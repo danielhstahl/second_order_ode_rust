@@ -2,8 +2,8 @@
 name = "second_order_ode"
 version = "0.1.0"
 authors = ["Daniel Stahl <danstahl1138@gmail.com>"]
-homepage = "https://github.com/phillyfan1138/second_order_ode_rust"
-repository = "https://github.com/phillyfan1138/second_order_ode_rust"
+homepage = "https://github.com/danielhstahl/second_order_ode_rust"
+repository = "https://github.com/danielhstahl/second_order_ode_rust"
 readme="README.md"
 license = "MIT"
 description = "A library for solving second order ODEs."
@@ -14,6 +14,3 @@ description = "A library for solving second order ODEs."
 [dev-dependencies]
 approx = "0.2.0"
 
-
-[badges]
-travis-ci = { repository = "phillyfan1138/second_order_ode_rust" }
